@@ -1,0 +1,1 @@
+{"version":3,"file":"css/theme-styles.css","mappings":";;;AAAA;EACG,UAAU;;AAGb;EACC,YAAY","sources":["webpack://test-project/./src/scss/theme-styles.scss"],"sourcesContent":[".test{\r\n   color: red;\r\n}\r\n\r\n.test1{\r\n\tcolor: green;\r\n}\r\n"],"names":[],"sourceRoot":""}
